@@ -138,6 +138,7 @@ weather_prep <- weather_recipe %>%
 weather_prep
 ```
 
+#REMOVED STEPS 2-4 since it was preprocessing and model training and added values that Anish discovered into the final spec fit chunk
 
 ## 5. Final Specification
 
